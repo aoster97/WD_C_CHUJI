@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aochenwen/Desktop/计算机基础笔记/WD_C/29_dynamic_mem.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aochenwen/Desktop/计算机基础笔记/WD_C/30_Stack_space_heap_space.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="WD_C"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10_loopin_c">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/10_loopin_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_loopin_c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10_loopin_c/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/10_loopin_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_loopin_c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_print">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/11_print" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_print"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_print/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/11_print" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_print/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12.1_colcu_sign">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/12.1_colcu_sign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 12.1_colcu_sign"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12.1_colcu_sign/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/12.1_colcu_sign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 12.1_colcu_sign/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_colcu_sign">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/12_colcu_sign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_colcu_sign"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_colcu_sign/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/12_colcu_sign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_colcu_sign/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="13_relationship_sign">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/13_relationship_sign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 13_relationship_sign"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="13_relationship_sign/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/13_relationship_sign" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 13_relationship_sign/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14_if_jug">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/14_if_jug" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 14_if_jug"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14_if_jug/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/14_if_jug" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 14_if_jug/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="15_while">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/15_while" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 15_while"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="15_while/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/15_while" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 15_while/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="16_for">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/16_for" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 16_for"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="16_for/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/16_for" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 16_for/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="17_continue">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/17_continue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 17_continue"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="17_continue/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/17_continue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 17_continue/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="18_break">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/18_break" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 18_break"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="18_break/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/18_break" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 18_break/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="19_array">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/19_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 19_array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="19_array/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/19_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 19_array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_var">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/1_var" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_var"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_var/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/1_var" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_var/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="20_corrupted">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/20_corrupted" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 20_corrupted"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="20_corrupted/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/20_corrupted" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 20_corrupted/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21_char_array">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/21_char_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 21_char_array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21_char_array/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/21_char_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 21_char_array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22_gets_puts">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/22_gets_puts" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 22_gets_puts"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22_gets_puts/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/22_gets_puts" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 22_gets_puts/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="23_char_array_output">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/23_char_array_output" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 23_char_array_output"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="23_char_array_output/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/23_char_array_output" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 23_char_array_output/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="24_str_function">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/24_str_function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 24_str_function"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="24_str_function/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/24_str_function" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 24_str_function/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="25_pointer">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/25_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 25_pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="25_pointer/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/25_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 25_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="26_pointer_transmit">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/26_pointer_transmit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 26_pointer_transmit"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="26_pointer_transmit/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/26_pointer_transmit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 26_pointer_transmit/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="27_pointer_offset">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/27_pointer_offset" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 27_pointer_offset"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="27_pointer_offset/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/27_pointer_offset" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 27_pointer_offset/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="28_pointer_self_add_div">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/28_pointer_self_add_div" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 28_pointer_self_add_div"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="28_pointer_self_add_div/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/28_pointer_self_add_div" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 28_pointer_self_add_div/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="29_dynamic_mem">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/29_dynamic_mem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 29_dynamic_mem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="29_dynamic_mem/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/29_dynamic_mem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 29_dynamic_mem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_scanf">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/2_scanf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_scanf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_scanf/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/2_scanf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_scanf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="30_Stack_space_heap_space">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/30_Stack_space_heap_space" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 30_Stack_space_heap_space"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="30_Stack_space_heap_space/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/30_Stack_space_heap_space" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 30_Stack_space_heap_space/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="31_initialize_array_and_pointer">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/31_initialize_array_and_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 31_initialize_array_and_pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="31_initialize_array_and_pointer/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/31_initialize_array_and_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 31_initialize_array_and_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="32_Secondary_pointer">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/32_Secondary_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 32_Secondary_pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="32_Secondary_pointer/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/32_Secondary_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 32_Secondary_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="33_gobal_var">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/33_gobal_var" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 33_gobal_var"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="33_gobal_var/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/33_gobal_var" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 33_gobal_var/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="34_recursion_func">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/34_recursion_func" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 34_recursion_func"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="34_recursion_func/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/34_recursion_func" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 34_recursion_func/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="35_up_down_stair">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/35_up_down_stair" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 35_up_down_stair"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="35_up_down_stair/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/35_up_down_stair" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 35_up_down_stair/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="36_struct">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/36_struct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 36_struct"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="36_struct/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/36_struct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 36_struct/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="37_struct_pointer">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/37_struct_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 37_struct_pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="37_struct_pointer/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/37_struct_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 37_struct_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="38_typedef">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/38_typedef" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 38_typedef"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="38_typedef/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/38_typedef" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 38_typedef/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="39_cpp_reference">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/39_cpp_reference" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 39_cpp_reference"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="39_cpp_reference/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/39_cpp_reference" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 39_cpp_reference/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_nary_transf">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/3_nary_transf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_nary_transf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_nary_transf/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/3_nary_transf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_nary_transf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="40_cpp_ref_pro">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/40_cpp_ref_pro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 40_cpp_ref_pro"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="40_cpp_ref_pro/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/40_cpp_ref_pro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 40_cpp_ref_pro/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="40_swap">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/40_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 40_swap"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="40_swap/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/40_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 40_swap/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_float">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/4_float" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_float"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_float/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/4_float" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_float/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_case_charge">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/5_case_charge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_case_charge"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_case_charge/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/5_case_charge" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_case_charge/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_mix_colcu">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/6_mix_colcu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_mix_colcu"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_mix_colcu/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/6_mix_colcu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_mix_colcu/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_stdinout">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/7_stdinout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_stdinout"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_stdinout/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/7_stdinout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_stdinout/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_jug_runyear">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/8_jug_runyear" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_jug_runyear"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_jug_runyear/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/8_jug_runyear" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_jug_runyear/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9_loopin">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/9_loopin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 9_loopin"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9_loopin/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/9_loopin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 9_loopin/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/output"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/10_loopin_c.c">
+			<Option target="10_loopin_c"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/11_print.c">
+			<Option target="11_print"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/12.1_colcu_sign.c">
+			<Option target="12.1_colcu_sign"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/12_colcu_sign.c">
+			<Option target="12_colcu_sign"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/13_relationship_sign.c">
+			<Option target="13_relationship_sign"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/14_if_jug.c">
+			<Option target="14_if_jug"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/15_while.c">
+			<Option target="15_while"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/16_for.c">
+			<Option target="16_for"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/17_continue.c">
+			<Option target="17_continue"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/18_break.c">
+			<Option target="18_break"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/19_array.c">
+			<Option target="19_array"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/1_var.c">
+			<Option target="1_var"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/20_corrupted.c">
+			<Option target="20_corrupted"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/21_char_array.c">
+			<Option target="21_char_array"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/22_gets_puts.c">
+			<Option target="22_gets_puts"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/23_char_array_output.c">
+			<Option target="23_char_array_output"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/24_str_function.c">
+			<Option target="24_str_function"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/25_pointer.c">
+			<Option target="25_pointer"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/26_pointer_transmit.c">
+			<Option target="26_pointer_transmit"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/27_pointer_offset.c">
+			<Option target="27_pointer_offset"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/28_pointer_self_add_div.c">
+			<Option target="28_pointer_self_add_div"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/29_dynamic_mem.c">
+			<Option target="29_dynamic_mem"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/2_scanf.c">
+			<Option target="2_scanf"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/30_Stack_space_heap_space.c">
+			<Option target="30_Stack_space_heap_space"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/31_initialize_array_and_pointer.c">
+			<Option target="31_initialize_array_and_pointer"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/32_Secondary_pointer.c">
+			<Option target="32_Secondary_pointer"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/33_gobal_var.c">
+			<Option target="33_gobal_var"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/34_recursion_func.c">
+			<Option target="34_recursion_func"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/35_up_down_stair.c">
+			<Option target="35_up_down_stair"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/36_struct.c">
+			<Option target="36_struct"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/37_struct_pointer.c">
+			<Option target="37_struct_pointer"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/38_typedef.c">
+			<Option target="38_typedef"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/39_cpp_reference.c">
+			<Option target="39_cpp_reference"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/3_nary_transf.c">
+			<Option target="3_nary_transf"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/40_cpp_ref_pro.c">
+			<Option target="40_cpp_ref_pro"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/40_swap.c">
+			<Option target="40_swap"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/4_float.c">
+			<Option target="4_float"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/5_case_charge.c">
+			<Option target="5_case_charge"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/6_mix_colcu.c">
+			<Option target="6_mix_colcu"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/7_stdinout.c">
+			<Option target="7_stdinout"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/8_jug_runyear.c">
+			<Option target="8_jug_runyear"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/9_loopin.c">
+			<Option target="9_loopin"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/test.c">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/Users/aochenwen/Desktop/计算机基础笔记/WD_C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

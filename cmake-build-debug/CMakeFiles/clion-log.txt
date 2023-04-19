@@ -1,0 +1,91 @@
+/usr/local/Cellar/cmake/3.22.3/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/aochenwen/Desktop/计算机基础笔记/WD_C
+Working Directory: /Users/aochenwen/Desktop/计算机基础笔记/WD_C
+10_loopin_c.c
+add_executable(10_loopin_c 10_loopin_c.c)
+11_print.c
+add_executable(11_print 11_print.c)
+12.1_colcu_sign.c
+add_executable(12.1_colcu_sign 12.1_colcu_sign.c)
+12_colcu_sign.c
+add_executable(12_colcu_sign 12_colcu_sign.c)
+13_relationship_sign.c
+add_executable(13_relationship_sign 13_relationship_sign.c)
+14_if_jug.c
+add_executable(14_if_jug 14_if_jug.c)
+15_while.c
+add_executable(15_while 15_while.c)
+16_for.c
+add_executable(16_for 16_for.c)
+17_continue.c
+add_executable(17_continue 17_continue.c)
+18_break.c
+add_executable(18_break 18_break.c)
+19_array.c
+add_executable(19_array 19_array.c)
+1_var.c
+add_executable(1_var 1_var.c)
+20_corrupted.c
+add_executable(20_corrupted 20_corrupted.c)
+21_char_array.c
+add_executable(21_char_array 21_char_array.c)
+22_gets_puts.c
+add_executable(22_gets_puts 22_gets_puts.c)
+23_char_array_output.c
+add_executable(23_char_array_output 23_char_array_output.c)
+24_str_function.c
+add_executable(24_str_function 24_str_function.c)
+25_pointer.c
+add_executable(25_pointer 25_pointer.c)
+26_pointer_transmit.c
+add_executable(26_pointer_transmit 26_pointer_transmit.c)
+27_pointer_offset.c
+add_executable(27_pointer_offset 27_pointer_offset.c)
+28_pointer_self_add_div.c
+add_executable(28_pointer_self_add_div 28_pointer_self_add_div.c)
+29_dynamic_mem.c
+add_executable(29_dynamic_mem 29_dynamic_mem.c)
+2_scanf.c
+add_executable(2_scanf 2_scanf.c)
+30_Stack_space_heap_space.c
+add_executable(30_Stack_space_heap_space 30_Stack_space_heap_space.c)
+31_initialize_array_and_pointer.c
+add_executable(31_initialize_array_and_pointer 31_initialize_array_and_pointer.c)
+32_Secondary_pointer.c
+add_executable(32_Secondary_pointer 32_Secondary_pointer.c)
+33_gobal_var.c
+add_executable(33_gobal_var 33_gobal_var.c)
+34_recursion_func.c
+add_executable(34_recursion_func 34_recursion_func.c)
+35_up_down_stair.c
+add_executable(35_up_down_stair 35_up_down_stair.c)
+36_struct.c
+add_executable(36_struct 36_struct.c)
+37_struct_pointer.c
+add_executable(37_struct_pointer 37_struct_pointer.c)
+38_typedef.c
+add_executable(38_typedef 38_typedef.c)
+39_cpp_reference.c
+add_executable(39_cpp_reference 39_cpp_reference.c)
+3_nary_transf.c
+add_executable(3_nary_transf 3_nary_transf.c)
+40_cpp_ref_pro.c
+add_executable(40_cpp_ref_pro 40_cpp_ref_pro.c)
+40_swap.c
+add_executable(40_swap 40_swap.c)
+4_float.c
+add_executable(4_float 4_float.c)
+5_case_charge.c
+add_executable(5_case_charge 5_case_charge.c)
+6_mix_colcu.c
+add_executable(6_mix_colcu 6_mix_colcu.c)
+7_stdinout.c
+add_executable(7_stdinout 7_stdinout.c)
+8_jug_runyear.c
+add_executable(8_jug_runyear 8_jug_runyear.c)
+9_loopin.c
+add_executable(9_loopin 9_loopin.c)
+test.c
+add_executable(test test.c)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/aochenwen/Desktop/计算机基础笔记/WD_C/cmake-build-debug
